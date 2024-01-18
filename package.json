@@ -1,5 +1,6 @@
 {
   "name": "hexlet",
+  "type": "module",
   "version": "1.0.0",
   "description": "hello-world",
   "main": "console.js",
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/natalia-nuikina/hexlet-js/issues"
   },
-  "homepage": "https://github.com/natalia-nuikina/hexlet-js#readme"
+  "homepage": "https://github.com/natalia-nuikina/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
